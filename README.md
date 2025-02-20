@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Juan Tapia
+- 👋 Hi, I’m @Juan T.
 - 👀 I’m interested in anime. computers, and coding.
 - 🌱 I’m currently learning HTML. PYTHON and the rest of the codes.
 - 💞️ I’m looking to collaborate on enhancing my coding skills.
